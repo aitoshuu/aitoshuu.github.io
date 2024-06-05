@@ -1,0 +1,51 @@
+{
+  "dest": "my_site",
+  "base":"/",
+  "title": "Prompt案例库",
+  "description": "获取更多prompt灵感",
+  "keywords": "8, open source, design, collaboration, innovation, transparency",
+  "author": "aitoshuu",
+  "twitter@username":"aitoshuu",
+  "share_config":["instagram","weibo","facebook","email"],
+  "hostname": "aitoshuu.art",
+  "GA4": "G-xxxx",
+  "category_title": "目录",
+  "googleAds": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-xxxxx",
+  "googleAdsenseAccount": "ca-pub-xxxxx",
+  "navbar": [
+    {
+      "text": "Mission",
+      "link": "/posts/mission"
+    },
+    {
+      "text": "Knowledge",
+      "children": [
+        {
+          "text": "AGI",
+          "link": "/posts/knowledge/AGI/"
+        },
+        {
+          "text": "XR",
+          "link": "/posts/knowledge/XR/"
+        }
+      ]
+    },
+    {
+      "text": "Paper",
+      "children": [
+        {
+          "text": "HCI",
+          "link": "/posts/paper/HCI"
+        },
+        {
+          "text": "LLM",
+          "link": "/posts/paper/LLM"
+        }
+      ]
+    },
+    {
+      "text": "Github",
+      "link": "https://github.com/OpenDesignGlobal/OpenDesign"
+    }
+  ]
+}
